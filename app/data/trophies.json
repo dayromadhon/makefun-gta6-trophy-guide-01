@@ -216,8 +216,7 @@
       "missable": false,
       "guide": "Complete the mission Operation Savage Glory. Story mission — play it through to the end.",
       "sources": ["official"]
-    }
-,
+    },
     {
       "id": 14,
       "name": "A Long Road",
@@ -378,8 +377,7 @@
       "missable": false,
       "guide": "Complete the final mission for Tyrone. Tyrone's questline is a Jason-only strand of side missions — play it to its last mission and the trophy pops.\n\nTyrone's strand does not count toward Strangers & Freaks, since it has its own trophy. The finale stays open after the credits.",
       "sources": ["official", "outputlag"]
-    }
-,
+    },
     {
       "id": 28,
       "name": "Positive Mental Attitude",
@@ -506,7 +504,7 @@
       "hidden": true,
       "kind": "crime",
       "missable": false,
-      "guide": "Get into a military tank — the description's “Rhinos” are the Rhino tanks. Tanks are parked on the south side of Mile Zero Air Station, on the island at the far southwest of the map.\n\nSave first, get in, and drive and fire until the trophy pops.",
+      "guide": "Get into a military tank — the description’s “Rhinos” are the Rhino tanks. Tanks are parked on the south side of Mile Zero Air Station, on the island at the far southwest of the map.\n\nSave first, get in, and drive and fire until the trophy pops.",
       "sources": ["official", "outputlag"]
     },
     {
@@ -554,8 +552,7 @@
       "target": "52 areas",
       "guide": "Explore all of Leonida — all 52 areas of the map. Drive and fly through every named area; the map fills in as you go, and the last unvisited corner is usually a beach, an island or a stretch of the northern countryside.\n\nWork through it region by region during the clean-up, and check the in-game map for the gaps — an area only counts once you have actually been there.",
       "sources": ["official"]
-    }
-,
+    },
     {
       "id": 43,
       "name": "Pest Control",
