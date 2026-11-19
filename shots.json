@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","view":"Cover: checklist with official names, descriptions and grades, filters pinned on top, Positive Mental Attitude guide with missable warning and sources open beside it","viewport":{"height":800,"width":1280}},{"file":"2-roadmap.jpg","view":"Roadmap to the platinum: all six stages with their trophy chips, detail pane on A Long Road","viewport":{"height":800,"width":1280}},{"file":"3-spoiler.jpg","view":"Spoiler-safe mode on with the story filter: hidden story trophies masked, one earned story trophy revealed","viewport":{"height":800,"width":1280}},{"file":"4-tracker.jpg","view":"Tracker seeded with 13 of 55 earned, collectibles filter, export/import controls, You WAiNKer! guide open","viewport":{"height":800,"width":1280}}]

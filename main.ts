@@ -5,6 +5,10 @@
 // screenshots, the first load's files and bytes, and your source), with the vendored make.fun library. Leave
 // vendor/makefun-frontend.ts as it is: the scorer requires dossier.json to be byte for byte what its own copy writes.
 //
+// Leonida Legend (built in the recorded session): a full guide and tracker for all 55 GTA VI trophies — own-word
+// guides with cited sources in app/data/trophies.json, a six-stage roadmap to the platinum, missable flags, kind and
+// grade filters, a spoiler setting, and progress saved in localStorage with export/import.
+//
 // Only the plumbing, not a winner: a plain checklist of the 55 trophies with a one-line hint each. Write a real guide
 // for every trophy in your own words, a roadmap to the platinum, filters and a spoiler setting in app/, put 3 or 4 PNG
 // or JPEG screenshots of it in screenshots/ (the first by name is the cover; shots.json says which views this
